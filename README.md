@@ -1,4 +1,4 @@
-# Analise-de-dados-IMDB 🎥
+# Análise de ados do IMDB 🎥
 
 O IMDB (The Movie Database) é um daset abrangente que fornece informações sobre filmes, incluindo detalhes como títulos, imdb (avaliação), ano de lançamento, receita, gêneros e muito mais.
 
